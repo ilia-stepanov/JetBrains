@@ -1,4 +1,3 @@
-# JetBrains
 **1 Project: Zookeeper**
 
 **About**
@@ -6,6 +5,7 @@ This short code challenge can help the local zoo look after its denizens. You wi
 
 **Learning outcomes**
 This project is aimed at our beginners. It helps you understand some syntax basics and learn how to work with variables, data storage types such as lists, and while loops.
+
 
 
 **2 Project: Currency Converter**
@@ -17,6 +17,7 @@ Want to convert one currency to another? You can go to your bank website and do 
 You will learn many concepts of Python — basic types, variables, arithmetic operations, loops, and working with files. Get a taste of more advanced features — JSON format, caching, and how to work with the network. You will write a currency converter program that uses a third-party service.
 
 
+
 **3 Project: Hangman**
 
 **About**
@@ -24,6 +25,7 @@ Hangman is a popular yet grim puzzle game. A cruel computer hides a word from yo
 
 **Learning outcomes**
 With functions, loops, lists and other variables, this is a great project for Python basics. As a cherry on top, it even includes a random module. Don’t be intimidated by the number of stages; they ensure that your dive into Python is safe and smooth.
+
 
 
 **4 Project: Tic-Tac-Toe**
@@ -35,6 +37,7 @@ Everybody remembers this paper-and-pencil game from childhood: Tic-Tac-Toe, also
 After finishing this project, you'll get to know a lot about planning and developing a complex program from scratch, using functions, handling errors, and processing user input.
 
 
+
 **5 Project: Loan Calculator**
 
 **About**
@@ -42,6 +45,7 @@ Personal finances are an important part of life. Sometimes you need some extra m
 
 **Learning outcomes**
 You will practice using mathematics and Python in everyday tasks and learn how to use third-party modules and libraries. You will also learn more about different financial instruments.
+
 
 
 **6 Project: Coffee Machine**
@@ -53,6 +57,7 @@ What can be better than a cup of coffee during a break? A coffee that you don’
 This project allows you to get a taste of Python. Practice working with functions, challenge yourself with loops and conditions, and get more confident in Python.
 
 
+
 **7 Project: Currency Converter**
 
 **About**
@@ -60,6 +65,7 @@ Want to convert one currency to another? You can go to your bank website and do 
 
 **Learning outcomes**
 You will learn many concepts of Python — basic types, variables, arithmetic operations, loops, and working with files. Get a taste of more advanced features — JSON format, caching, and how to work with the network. You will write a currency converter program that uses a third-party service.
+
 
 
 **8 Project: Simple Banking System**
